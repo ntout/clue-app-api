@@ -1,0 +1,5 @@
+django==2.2.11
+djangorestframework>=3.11.0,<3.12
+django-cors-headers==3.2.1
+cryptography==2.8
+drf-jwt==1.15.1
